@@ -2,5 +2,5 @@
 /.git
 /.cache
 /development
-/build
+/dist
 /node_modules
