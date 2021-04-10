@@ -1,0 +1,6 @@
+/.vscode
+/.git
+/.cache
+/development
+/build
+/node_modules
