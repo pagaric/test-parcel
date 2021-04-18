@@ -6,6 +6,11 @@
 ```
 npm init -y
 ```
+## Sous linux
+Il faut installer le paquet `build-essential`
+```
+sudo apt install build-essential
+```
 ## Installation des dépendances
 ```
 npm i -D parcel-bundler sass @babel/core @babel/plugin-transform-runtime @babel/runtime-corejs2
